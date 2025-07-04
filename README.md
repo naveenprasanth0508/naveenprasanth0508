@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/naveen-prasanth-p-373aaa2a0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/naveenprasanth06" target="_blank">
+  <a href="https://github.com/naveenprasanth0508" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:prasanthnaveen100@gmail.com">
@@ -17,9 +17,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naveenprasanth06&style=flat-square&color=blue" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/naveenprasanth06?style=social" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/naveenprasanth06?style=social" alt="GitHub Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=naveenprasanth0508&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/naveenprasanth0508?style=social" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/naveenprasanth0508?style=social" alt="GitHub Stars"/>
 </p>
 
 ---
@@ -105,11 +105,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveenprasanth06&show_icons=true&theme=tokyonight&hide=issues" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naveenprasanth0508&show_icons=true&theme=tokyonight&hide=issues" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenprasanth06&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenprasanth0508&theme=tokyonight&hide_border=true" />
   <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naveenprasanth06&theme=react-dark&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naveenprasanth0508&theme=react-dark&area=true&hide_border=true"/>
 </p>
 
 ---
@@ -126,7 +126,3 @@
   <br />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=00FFAA&center=true&vCenter=true&width=800&lines=but+determination+does." />
 </p>
-
-
-
-
