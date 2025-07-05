@@ -35,13 +35,13 @@
 
 ## 🧰 Tech Stack
 
-### Languages
-![C](https://img.icons8.com/color/48/c-programming.png) 
-![C++](https://img.icons8.com/color/48/c-plus-plus-logo.png) 
+### 👨‍💻 Languages
+![C](https://img.icons8.com/color/48/c-programming.png)
+![C++](https://img.icons8.com/color/48/c-plus-plus-logo.png)
 ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo.png)
 ![Python](https://img.icons8.com/color/48/python.png)
 
-### Web & Backend
+### 🌐 Web & Backend
 ![HTML](https://img.icons8.com/color/48/html-5.png)
 ![CSS](https://img.icons8.com/color/48/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/javascript.png)
@@ -50,7 +50,7 @@
 ![MongoDB](https://img.icons8.com/color/48/mongodb.png)
 ![MySQL](https://img.icons8.com/color/48/mysql-logo.png)
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 ![AWS](https://img.icons8.com/color/48/amazon-web-services.png)
 ![Google Cloud](https://img.icons8.com/color/48/google-cloud.png)
 ![Docker](https://img.icons8.com/color/48/docker.png)
@@ -59,16 +59,27 @@
 ![Terraform](https://img.icons8.com/color/48/terraform.png)
 ![Ansible](https://img.icons8.com/color/48/ansible.png)
 ![Linux](https://img.icons8.com/color/48/linux.png)
-![Git](https://img.icons8.com/color/48/git.png)
 
-### Tools & IDEs
+### 🛠️ Tools & IDEs
 ![VS Code](https://img.icons8.com/fluency/48/visual-studio-code-2019.png)
 ![IntelliJ](https://img.icons8.com/color/48/intellij-idea.png)
-![Postman](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png)
 ![Eclipse](https://img.icons8.com/color/48/eclipse.png)
+![Postman](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png)
+![Figma](https://img.icons8.com/color/48/figma--v1.png)
+![Notion](https://img.icons8.com/color/48/notion.png)
+![Photoshop](https://img.icons8.com/doodle/48/adobe-photoshop.png)
+<img src="https://img.icons8.com/color/48/git.png" title="Git" />
+<img src="https://img.icons8.com/fluency/48/console.png" title="Terminal" />
 
 ---
 
+## 💻 Workspace Specs
+
+![MacBook Pro M1](https://img.shields.io/badge/MacBook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white)
+![AMD Ryzen 5](https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![NVIDIA GTX 1650](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+---
 ## 💼 Key Projects
 
 - **📝 Blog Platform (MERN Stack)**  
