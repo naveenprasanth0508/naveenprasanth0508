@@ -80,6 +80,7 @@
 ![NVIDIA GTX 1650](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ---
+
 ## 💼 Key Projects
 
 - **📝 Blog Platform (MERN Stack)**  
@@ -113,15 +114,25 @@
 
 ---
 
-## 📈 GitHub Stats
+## ✅ Points
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveenprasanth0508&show_icons=true&theme=tokyonight&hide=issues" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenprasanth0508&theme=tokyonight&hide_border=true" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naveenprasanth0508&theme=react-dark&area=true&hide_border=true"/>
-</p>
+- 🌱 Love automating deployments & infrastructure
+- 📚 Always exploring new DevOps tools and practices
+- 🔒 Strong focus on security in CI/CD pipelines
+- 🌍 Collaborate on open source & hackathons
+- ✍️ Document and share knowledge through blogs
+
+---
+
+## 📊 More GitHub Summary
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naveenprasanth0508&theme=github_dark" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naveenprasanth0508&theme=github_dark" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naveenprasanth0508&theme=github_dark" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naveenprasanth0508&theme=github_dark" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naveenprasanth0508&theme=github_dark&utcOffset=8" height="180em" />
+</div>
 
 ---
 
@@ -137,3 +148,17 @@
   <br />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=00FFAA&center=true&vCenter=true&width=800&lines=but+determination+does." />
 </p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naveenprasanth0508&show_icons=true&theme=tokyonight&hide=issues" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenprasanth0508&theme=tokyonight&hide_border=true" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naveenprasanth0508&theme=react-dark&area=true&hide_border=true"/>
+</p>
+
+---
