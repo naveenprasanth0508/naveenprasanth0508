@@ -94,20 +94,32 @@
 
 ## 💼 Key Projects
 
-- **📝 Blogify – Your digital space to write, share & discover**  
-  Full-featured web blogging application built with **React** and **Node.js**. Includes user auth, post CRUD, and admin dashboard for smooth content management.
+## 💼 Key Projects
 
-- **🤟 ISL Sign Language Translator**  
-  Finalist project at the **Smart India Hackathon**, bridging communication gaps for the deaf community using AI & computer vision.
+- **⚙️ CI/CD Pipeline for React App Deployment**  
+  Automated build and deployment pipeline using Jenkins, GitHub webhooks, Docker, and AWS EC2.  
+  Configured SonarQube for code quality checks and Nginx to serve production builds.  
+  Reduced manual deployment effort and improved consistency.
 
-- **🧪 YUGIXX – Ultimate API Testing Tool**  
-  Modern, developer-friendly alternative to Postman supporting all major HTTP methods, environment variables, and real-time response visualization.
+- **🧪 YUGIXX – Browser-based REST API Testing Tool (MERN)**  
+  Built a lightweight Postman-like tool with React, Node.js, Express, and MongoDB.  
+  Supports secure login, request history, and real-time request/response view.  
+  Designed for developer productivity with clean UI.
 
-- **🐾 ResQtail – AI-Powered Animal Rescue Platform**  
-  Community-driven web app to modernize animal rescue operations with live maps and ML-based injury prediction.
+- **🐾 ResQtail – Animal Rescue Management System (MERN)**  
+  Developed a web app for rescue volunteers to track and manage animal rescue cases.  
+  Added user roles, real-time status updates, and admin dashboards.  
+  Focused on usability, scalability, and social impact.
 
-- **⚙️ CI/CD Pipeline for React App Deployment (DevOps Project)**  
-  Automated deployment using Jenkins, GitHub webhooks, and AWS EC2 with Nginx.
+- **🤟 Noiseless – ISL Sign Translator (SIH)**  
+  Hackathon project using TensorFlow to recognize Indian Sign Language gestures.  
+  Converts signs into text and speech for easier communication.  
+  Built for inclusivity and real-time accessibility.
+
+- **📝 Blogify – MERN Blogging Platform**  
+  Full-featured blogging app with user authentication, CRUD for posts, and admin dashboard.  
+  Developed with React, Node.js, Express, and MongoDB stack.  
+  Focused on simplicity and seamless content management.
 
 ---
 
