@@ -5,10 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/username/repo/blob/main/resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/>
+  <a href="https://drive.google.com/file/d/1dpWkOVbweVB4gGqBnlqCzWu4Ss8I4nnf/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/>
   </a>
 </p>
+
 
 
 <p align="center">
