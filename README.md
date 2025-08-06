@@ -165,12 +165,17 @@
 
 ## 🤝 Let's Connect
 
-<p align="center">
+  <a href="https://www.linkedin.com/in/naveen-prasanth-p-373aaa2a0" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="https://github.com/naveenprasanth0508?tab=followers">
     <img src="https://img.shields.io/github/followers/naveenprasanth0508?label=Follow%20Me&style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://github.com/naveenprasanth0508?tab=repositories">
-    <img src="https://img.shields.io/badge/Check%20My%20Repos-181717?style=for-the-badge&logo=github"/>
+  <a href="mailto:prasanthnaveen100@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://topmate.io/yugen_naveen" target="_blank">
+    <img src="https://img.shields.io/badge/Topmate-Connect-0a8f08?style=for-the-badge&logo=linktree&logoColor=white"/>
   </a>
 </p>
 
