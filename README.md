@@ -165,9 +165,14 @@
 
 ## 🤝 Let's Connect
 
-📩 Email: [prasanthnaveen100@gmail.com](mailto:prasanthnaveen100@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/naveen-prasanth-p-373aaa2a0](https://www.linkedin.com/in/naveen-prasanth-p-373aaa2a0)  
-🌿 Topmate: [topmate.io/yugen_naveen](https://topmate.io/yugen_naveen)
+<p align="center">
+  <a href="https://github.com/naveenprasanth0508?tab=followers">
+    <img src="https://img.shields.io/github/followers/naveenprasanth0508?label=Follow%20Me&style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://github.com/naveenprasanth0508?tab=repositories">
+    <img src="https://img.shields.io/badge/Check%20My%20Repos-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
