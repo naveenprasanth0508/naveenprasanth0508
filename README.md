@@ -119,25 +119,15 @@
   Developed with React, Node.js, Express, and MongoDB stack.  
   Focused on simplicity and seamless content management.
 
----
-
-## 🎓 Certifications
-
-- **AWS Academy Cloud Foundations**
-- **Kubernetes Security Masterclass (Udemy)**
-- **Complete SQL Bootcamp (Udemy)**
-- **Java Mastery (Udemy)**
-- **JPMorgan Chase SDE Virtual Internship (Forage)**
-- **AWS Solutions Architect Simulations (Forage)**
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **1st Place** – Freshathon Project Expo
-- 🥈 **2nd Place** – Django Web Dev PBL Series
-- 🥉 **3rd Place** – Portfolio Design Contest
-- 🚀 **Finalist** – Smart India Hackathon
+- 🥇 **1st Place** – Freshathon Project Expo - College Event 
+- 🥈 **2nd Place** – Django Web Dev PBL Series - College Event
+- 🥉 **3rd Place** – Portfolio Design Contest - College Event
+- 🚀 **Finalist** – Smart India Hackathon - Interlevel College Event
 
 ---
 
