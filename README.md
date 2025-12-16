@@ -94,32 +94,35 @@
 
 ## 💼 Key Projects
 
-- **⚙️ CI/CD Pipeline for React App Deployment**  
-  Automated build and deployment pipeline using Jenkins, GitHub webhooks, Docker, and AWS EC2.  
-  Configured SonarQube for code quality checks and Nginx to serve production builds.  
-  Reduced manual deployment effort and improved consistency.
+- **💸 FinOps Automation – AWS Cost Optimization**  
+  Built AWS Lambda scripts to detect idle EC2 instances and unused snapshots, generating cost reports.  
+  Reduced unnecessary spend and automated cloud resource cleanup.
 
-- **🧪 YUGIXX – Browser-based REST API Testing Tool (MERN)**  
-  Built a lightweight Postman-like tool with React, Node.js, Express, and MongoDB.  
-  Supports secure login, request history, and real-time request/response view.  
-  Designed for developer productivity with clean UI.
+- **📈 AWS QuickSight Analytics Dashboards**  
+  Ingested CSV datasets into S3 and visualized data with QuickSight dashboards.  
+  Enabled fast, interactive data insights for cloud-based BI.
+
+- **📩 Serverless Email Automation with AWS**  
+  Implemented AWS SES, Lambda, DynamoDB, and S3 for event-driven, scalable email workflows.  
+  Ensured reliability and cost-efficiency using serverless architecture.
+
+- **🐳 GitHub Actions + Docker CI/CD Workflow**  
+  Automated end-to-end builds and deployments using GitHub Actions and Docker.  
+  Reduced deployment risks, maintained consistent environments, and improved developer feedback loop.
+
+- **📂 Centralized Log Management & FinOps**  
+  Automated log upload to S3 with lifecycle policies to Glacier.  
+  Reduced EC2 storage costs, centralized logs, and improved operational efficiency.
 
 - **🐾 ResQtail – Animal Rescue Management System (MERN)**  
-  Developed a web app for rescue volunteers to track and manage animal rescue cases.  
-  Added user roles, real-time status updates, and admin dashboards.  
-  Focused on usability, scalability, and social impact.
+  Developed a web app for rescue volunteers with real-time case tracking, role-based access, and dashboards.  
 
-- **🤟 Noiseless – ISL Sign Translator (SIH)**  
-  Hackathon project using TensorFlow to recognize Indian Sign Language gestures.  
-  Converts signs into text and speech for easier communication.  
-  Built for inclusivity and real-time accessibility.
+- **🤟 Noiseless – ISL Sign Translator (SIH Hackathon)**  
+  Built a TensorFlow-powered system to convert Indian Sign Language gestures to text and speech.  
 
 - **📝 Blogify – MERN Blogging Platform**  
-  Full-featured blogging app with user authentication, CRUD for posts, and admin dashboard.  
-  Developed with React, Node.js, Express, and MongoDB stack.  
-  Focused on simplicity and seamless content management.
-
-
+  Full-featured blogging platform with user authentication, CRUD operations, and admin dashboard.
+  
 ---
 
 ## 🏆 Achievements
