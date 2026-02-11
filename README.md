@@ -94,6 +94,28 @@
 
 ## 💼 Key Projects
 
+- **⚙️ CI/CD Pipeline for React App Deployment**  
+  Automated build and deployment pipeline using Jenkins, GitHub webhooks, Docker, and AWS EC2.  
+  Configured SonarQube for code quality checks and Nginx to serve production builds.  
+  Reduced manual deployment effort and improved consistency.
+
+- **🧪 YUGIXX – Browser-based REST API Testing Tool (MERN)**  
+  Built a lightweight Postman-like tool with React, Node.js, Express, and MongoDB.  
+  Supports secure login, request history, and real-time request/response view.  
+  Designed for developer productivity with clean UI.
+
+- **🐾 YUGIXX Production Deployment – DevOps-Ready**  
+  Deployed YUGIXX on AWS EC2 with Jenkins CI/CD and Nginx.  
+  Stateless APIs, modular services, and Dockerized deployment for reliability and scalability.
+
+- **⚡ Jenkins Pipeline Health Checks**  
+  Set up automated service availability validation as part of CI pipeline.  
+  Ensured early detection of failures, consistent build validation, and reliability.
+
+- **📊 AWS RDS Load Testing & Performance Optimization**  
+  Conducted load testing on RDS instances, monitored performance with CloudWatch.  
+  Optimized scaling, latency, and reliability under peak load.
+
 - **💸 FinOps Automation – AWS Cost Optimization**  
   Built AWS Lambda scripts to detect idle EC2 instances and unused snapshots, generating cost reports.  
   Reduced unnecessary spend and automated cloud resource cleanup.
@@ -121,7 +143,7 @@
   Built a TensorFlow-powered system to convert Indian Sign Language gestures to text and speech.  
 
 - **📝 Blogify – MERN Blogging Platform**  
-  Full-featured blogging platform with user authentication, CRUD operations, and admin dashboard. 
+  Full-featured blogging platform with user authentication, CRUD operations, and admin dashboard.
 ---
 
 ## 🏆 Achievements
