@@ -92,9 +92,11 @@
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Premier Engineering Projects
 
 ---
+
+# ☁️ Featured Cloud-Native Systems
 
 ## 🎫 SupportDesk — Cloud-Native Ticket Management Platform
 
@@ -117,6 +119,8 @@
 - Engineered scalable full-stack architecture focused on smart-city operational efficiency
 
 ---
+
+# ⚙️ DevOps & Platform Engineering
 
 ## 🚀 CI/CD Automation Platform
 
@@ -148,6 +152,8 @@
 - Reduced manual operational overhead using continuous validation workflows
 
 ---
+
+# ☁️ Cloud & FinOps Engineering
 
 ## 💸 AWS FinOps Automation Suite
 
@@ -195,6 +201,8 @@
 
 ---
 
+# 🧪 Full Stack Applications
+
 ## 🧪 YUGIXX — REST API Testing Platform
 
 - Built a Postman-inspired API testing platform using the MERN stack
@@ -222,6 +230,9 @@
 - Improved content publishing workflows through admin-control automation
 
 ---
+
+
+# 🤖 AI & Innovation Projects
 
 ## 🤟 Noiseless — ISL Sign Language Translator
 
