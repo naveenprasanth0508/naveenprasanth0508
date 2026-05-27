@@ -92,86 +92,143 @@
 
 ---
 
-## 💼 Projects
-
-## 🚀 Cloud-Native & Scalable Systems
-
-- **🎫 SupportDesk – Cloud-Native Ticket Management System**  
-  Built a scalable ticketing platform using React and Node.js with real-time updates via Socket.io.  
-  Deployed Dockerized services on AWS ECS Fargate with ALB and hosted frontend on S3.  
-  Implemented JWT-based RBAC, SES notifications, DynamoDB audit logs, and CloudWatch monitoring.
-
-- **♻️ Urban Waste Intelligence (UWI) – AI-Powered Smart Waste Collection Scheduler**  
-  Developed a smart waste management platform using React, TypeScript, and Supabase for real-time waste monitoring and analytics.  
-  Implemented AI-based fill prediction, optimized waste collection routes, fire detection alerts, and interactive map visualization.  
-  Integrated Gemini API, Resend API, PostgreSQL, and Leaflet Maps to improve collection efficiency and smart city operations.
+# 🚀 Featured Projects
 
 ---
 
----
+## 🎫 SupportDesk — Cloud-Native Ticket Management Platform
 
-### ⚙️ DevOps & CI/CD
-
-- **⚙️ CI/CD Pipeline for React App Deployment**  
-  Automated build and deployment using Jenkins, Docker, GitHub Webhooks, and AWS EC2.  
-  Integrated SonarQube for code quality and Nginx for production serving.
-
-- **🐳 GitHub Actions + Docker CI/CD Workflow**  
-  Built automated pipelines for testing, building, and deploying containerized applications.  
-  Ensured consistent environments and faster developer feedback cycles.
-
-- **⚡ Jenkins Pipeline Health Checks**  
-  Implemented automated service validation within CI pipelines.  
-  Improved failure detection and deployment reliability.
+- Engineered a scalable cloud-native ticket management platform with real-time event-driven communication
+- Built production-ready frontend and backend architecture using React, Node.js, MongoDB, and Socket.io
+- Deployed containerized services on AWS ECS Fargate with Application Load Balancer
+- Designed secure RBAC authentication workflows with JWT-based authorization
+- Integrated SES notification pipelines, DynamoDB audit logging, and CloudWatch observability
+- Improved operational visibility through centralized monitoring and scalable infrastructure design
 
 ---
 
-### ☁️ Cloud & FinOps
+## ♻️ Urban Waste Intelligence (UWI) — AI Smart Waste Collection Platform
 
-- **💸 FinOps Automation – AWS Cost Optimization**  
-  Developed AWS Lambda scripts to detect idle EC2 instances and unused snapshots.  
-  Automated cost reporting and reduced unnecessary cloud spend.
-
-- **📂 Centralized Log Management & FinOps**  
-  Automated log storage in S3 with lifecycle policies to Glacier.  
-  Reduced storage costs and improved log accessibility.
-
-- **📩 Serverless Email Automation with AWS**  
-  Built event-driven email workflows using AWS SES, Lambda, DynamoDB, and S3.  
-  Ensured scalable and cost-efficient communication system.
-
-- **📊 AWS RDS Load Testing & Performance Optimization**  
-  Conducted load testing and monitored performance using CloudWatch.  
-  Optimized scaling, latency, and system reliability.
-
-- **📈 AWS QuickSight Analytics Dashboards**  
-  Visualized S3 datasets using QuickSight dashboards for real-time business insights.
+- Developed an AI-powered smart waste management platform for intelligent city operations
+- Designed predictive waste-fill analytics and route optimization workflows
+- Built real-time monitoring infrastructure with incident-alert systems and analytics dashboards
+- Integrated Gemini API, PostgreSQL, Resend API, Supabase, and Leaflet Maps
+- Improved collection efficiency through automation, predictive analytics, and optimized scheduling
+- Engineered scalable full-stack architecture focused on smart-city operational efficiency
 
 ---
 
-### 🧪 Full Stack Applications
+## 🚀 CI/CD Automation Platform
 
-- **🧪 YUGIXX – REST API Testing Platform (MERN)**  
-  Developed a Postman-like tool with secure authentication and request history.  
-  Enabled real-time request/response visualization for developers.
-
-- **🐾 YUGIXX Production Deployment – DevOps-Ready**  
-  Deployed YUGIXX on AWS EC2 with Jenkins CI/CD and Nginx.  
-  Built stateless APIs with Dockerized architecture for scalability.
-
-- **🐾 ResQtail – Animal Rescue Management System**  
-  Built a web platform for rescue volunteers with real-time tracking and dashboards.
-
-- **📝 Blogify – MERN Blogging Platform**  
-  Developed a full-featured blogging system with authentication and admin controls.
+- Designed production-grade CI/CD pipelines using Jenkins, Docker, GitHub Actions, and AWS EC2
+- Automated build, validation, deployment, and rollback workflows
+- Implemented containerized deployment pipelines for consistent release environments
+- Integrated SonarQube for automated code-quality analysis and security validation
+- Configured Nginx-based production deployment architecture with scalable delivery workflows
+- Reduced deployment overhead through infrastructure automation and continuous delivery practices
 
 ---
 
-### 🤖 AI / Hackathon Projects
+## 🐳 Containerized DevOps Workflow Engine
 
-- **🤟 Noiseless – ISL Sign Language Translator**  
-  Built a TensorFlow-based system to convert sign language gestures into text and speech.  
-  Developed during Smart India Hackathon.
+- Engineered Docker-based automation workflows for testing, containerization, and deployment
+- Built multi-stage Docker pipelines to improve build optimization and deployment consistency
+- Automated CI workflows using GitHub Actions and container orchestration practices
+- Reduced deployment drift using immutable infrastructure and standardized runtime environments
+- Improved development lifecycle reliability through automated validation workflows
+
+---
+
+## 🔍 Jenkins Deployment Validation System
+
+- Developed automated health-check and deployment validation pipelines
+- Implemented API validation and service availability monitoring workflows
+- Built automated failure-detection mechanisms for release verification
+- Improved deployment reliability and production stability through pipeline automation
+- Reduced manual operational overhead using continuous validation workflows
+
+---
+
+## 💸 AWS FinOps Automation Suite
+
+- Developed AWS Lambda automation workflows to identify idle EC2 instances and unused snapshots
+- Automated cloud infrastructure auditing and cost-governance operations
+- Generated cloud optimization reports and infrastructure utilization insights
+- Improved operational efficiency through automated cloud cost optimization practices
+- Reduced unnecessary infrastructure spending using intelligent automation workflows
+
+---
+
+## 📦 Intelligent Cloud Log Archival System
+
+- Built centralized log archival architecture using Amazon S3 lifecycle policies
+- Automated long-term log retention workflows with Glacier storage optimization
+- Improved storage efficiency and infrastructure governance practices
+- Designed scalable cloud storage workflows for operational visibility and compliance
+
+---
+
+## 📩 Serverless Notification Automation Platform
+
+- Built event-driven serverless communication workflows using AWS SES, Lambda, DynamoDB, and S3
+- Designed scalable notification pipelines with automated event processing
+- Improved reliability and operational scalability through serverless infrastructure
+- Reduced operational overhead using cloud-native event-driven architecture
+
+---
+
+## 📊 AWS RDS Performance Optimization Platform
+
+- Conducted infrastructure load testing and database performance analysis using CloudWatch
+- Optimized scaling, latency, and infrastructure resource utilization
+- Improved application reliability under high-traffic workloads
+- Engineered monitoring workflows for performance visibility and operational insights
+
+---
+
+## 📈 AWS Analytics Dashboard System
+
+- Built cloud-based analytics dashboards using AWS QuickSight and S3 datasets
+- Visualized operational metrics and business intelligence workflows
+- Developed scalable reporting pipelines for infrastructure and analytics insights
+- Improved decision-making visibility through real-time cloud analytics
+
+---
+
+## 🧪 YUGIXX — REST API Testing Platform
+
+- Built a Postman-inspired API testing platform using the MERN stack
+- Developed secure authentication and request-history management workflows
+- Engineered interactive API debugging and response-inspection capabilities
+- Improved developer productivity through real-time request and response visualization
+- Designed scalable backend APIs with developer-focused workflow optimization
+
+---
+
+## 🐾 ResQtail — Animal Rescue Management Platform
+
+- Developed a centralized rescue coordination platform for animal rescue volunteers
+- Implemented real-time rescue tracking and operational dashboard systems
+- Streamlined volunteer communication and rescue-case management workflows
+- Improved rescue coordination efficiency through scalable full-stack architecture
+
+---
+
+## 📝 Blogify — MERN Blogging Platform
+
+- Engineered a full-featured blogging platform with secure authentication workflows
+- Built scalable CRUD operations and role-based content-management systems
+- Developed responsive frontend architecture with secure backend APIs
+- Improved content publishing workflows through admin-control automation
+
+---
+
+## 🤟 Noiseless — ISL Sign Language Translator
+
+- Built a TensorFlow-powered sign language recognition system
+- Converted sign-language gestures into real-time text and speech output
+- Developed machine-learning workflows for gesture detection and translation
+- Built during Smart India Hackathon for accessibility-focused innovation
 
 ---
 
