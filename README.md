@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1nzvlqYwdh2VXQAjY7e92eXER8PjX3sox/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1oUWcbBwok7ZUOfAja3o9Ppa0NtzHNKo8/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/>
   </a>
 </p>
